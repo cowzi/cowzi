@@ -70,19 +70,9 @@ Designed and built a self-hosted infrastructure stack on a repurposed HP ProDesk
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cowzi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowzi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 📬 Get In Touch
 
 I'm actively looking for IT support and sysadmin roles in Sydney. If you're hiring or just want to connect, feel free to reach out.
 
 - 📧 sardualjeremy2966@gmail.com
 - 💼 [linkedin.com/in/jeremy-sardual-446106424](https://linkedin.com/in/jeremy-sardual-446106424)
-- 🌐 [CowLabTech on YouTube](https://www.youtube.com/@CowLabTech)
